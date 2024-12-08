@@ -1,0 +1,21 @@
+D:\Documentos\Visual Studio 2022\Projects\1724IS\ValidarMatricula\ValidarMatricula\bin\Debug\ValidarMatricula.exe.config
+D:\Documentos\Visual Studio 2022\Projects\1724IS\ValidarMatricula\ValidarMatricula\bin\Debug\ValidarMatricula.exe
+D:\Documentos\Visual Studio 2022\Projects\1724IS\ValidarMatricula\ValidarMatricula\bin\Debug\ValidarMatricula.pdb
+D:\Documentos\Visual Studio 2022\Projects\1724IS\ValidarMatricula\ValidarMatricula\obj\Debug\ValidarMatricula.csproj.AssemblyReference.cache
+D:\Documentos\Visual Studio 2022\Projects\1724IS\ValidarMatricula\ValidarMatricula\obj\Debug\ValidarMatricula.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Visual Studio 2022\Projects\1724IS\ValidarMatricula\ValidarMatricula\obj\Debug\ValidarMatricula.Form1.resources
+D:\Documentos\Visual Studio 2022\Projects\1724IS\ValidarMatricula\ValidarMatricula\obj\Debug\ValidarMatricula.Properties.Resources.resources
+D:\Documentos\Visual Studio 2022\Projects\1724IS\ValidarMatricula\ValidarMatricula\obj\Debug\ValidarMatricula.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio 2022\Projects\1724IS\ValidarMatricula\ValidarMatricula\obj\Debug\ValidarMatricula.csproj.CoreCompileInputs.cache
+D:\Documentos\Visual Studio 2022\Projects\1724IS\ValidarMatricula\ValidarMatricula\obj\Debug\ValidarMatricula.exe
+D:\Documentos\Visual Studio 2022\Projects\1724IS\ValidarMatricula\ValidarMatricula\obj\Debug\ValidarMatricula.pdb
+C:\Users\52553\Downloads\ValidarMatricula\ValidarMatricula\obj\Debug\ValidarMatricula.csproj.AssemblyReference.cache
+C:\Users\52553\Downloads\ValidarMatricula\ValidarMatricula\obj\Debug\ValidarMatricula.Form1.resources
+C:\Users\52553\Downloads\ValidarMatricula\ValidarMatricula\obj\Debug\ValidarMatricula.Properties.Resources.resources
+C:\Users\52553\Downloads\ValidarMatricula\ValidarMatricula\obj\Debug\ValidarMatricula.csproj.GenerateResource.cache
+C:\Users\52553\Downloads\ValidarMatricula\ValidarMatricula\obj\Debug\ValidarMatricula.csproj.CoreCompileInputs.cache
+C:\Users\52553\Downloads\ValidarMatricula\ValidarMatricula\obj\Debug\ValidarMatricula.exe
+C:\Users\52553\Downloads\ValidarMatricula\ValidarMatricula\obj\Debug\ValidarMatricula.pdb
+C:\Users\52553\Downloads\ValidarMatricula\ValidarMatricula\bin\Debug\ValidarMatricula.exe.config
+C:\Users\52553\Downloads\ValidarMatricula\ValidarMatricula\bin\Debug\ValidarMatricula.exe
+C:\Users\52553\Downloads\ValidarMatricula\ValidarMatricula\bin\Debug\ValidarMatricula.pdb
